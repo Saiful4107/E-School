@@ -1,0 +1,143 @@
+.navbar{
+    padding: .8rem;
+    background-color: #e8f5e9;
+}
+.navbar img{
+    height: 70px;
+    width: 200px;
+    margin: auto;
+}
+.navbar-nav li{
+    padding-right: 15px;
+}
+.nav-link{
+    font-size: 1.1em !important;
+    color: grey;
+}
+.first{
+    width: 100%;
+    padding: 100px 0;
+    margin: 5rem auto;
+    background-color: #e8f5e9;
+}
+.first .paragraph{
+    line-height: 2rem;
+    opacity: 0.7;
+    margin-top: 18px;
+    margin-bottom: 35px;
+}
+h2 .span{
+    text color: green;
+}
+.dragon{
+    height: auto;
+    width: 90%;
+    margin: auto;
+    background: none;
+    padding: 50px;
+}
+.dragon .box{
+    background-color: #f7fff8;
+    padding: 30px 30px;
+    transition: all 0.5s;
+}
+.dragon img{
+    height: 72px;
+    width: 60px;
+}
+.dragon .box h4{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.dragon .box h5{
+    font-size: 14px;
+    font-weight: lighter;
+    margin-top: 5px;
+}
+.dragon .box:hover{
+    box-shadow: 5px 5px 10px lightgray;
+    background-color: whitesmoke;
+}
+.courses .img-thumbnail {
+    padding: .25rem;
+    background-color: #fff;
+    border: none;
+    border-radius: .25rem;
+    max-width: 95%;
+    height: auto;
+    margin: 10px auto;
+}
+
+.courses h3{
+    font-weight: 700;
+    color: rgb(2, 11, 19);
+    font-size: 32px;
+    margin-bottom: 4rem;
+}
+
+.courses h5{
+    font-size: 20px;
+    color: midnightblue;
+    font-weight: 600;
+}
+
+.courses p{
+    opacity: 0.7;
+}
+
+.courses .details h4{
+    font-size: 14px;
+    padding: 10px 15px;
+    opacity: 0.9;
+}
+.testimonial{
+    width: 60%;
+    margin: 4rem auto;
+}
+
+.testimonial h3{
+    font-weight: 700;
+    color: rgb(2, 11, 19);
+    font-size: 32px;
+    margin-bottom: 4rem;
+}
+
+.testimonial .review img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.testimonial .review p{
+    margin-left: 50px;
+    font-weight: 500;
+    opacity: 0.9;
+}
+footer{
+    background-color: rgb(2, 11, 19);
+    padding: 50px 100px;
+    height: auto;
+}
+
+footer p{
+    color: white;
+    font-size: 14px;
+    opacity: 0.8;
+}
+
+footer ul{
+    list-style: none;
+    color: white;
+}
+
+footer ul li{
+    opacity: 0.8;
+    font-size: 14px;
+}
+
+footer ul li:first-child{
+    font-weight: 700;
+    opacity: 1;
+    font-size: 16px;
+}
